@@ -1,0 +1,11 @@
+Vite#
+
+Vite web oficial: Vite se define como una herramienta de frontend 
+que te ayudará a crear proyectos (sin atarte a ningún framework concreto) 
+y que su desarrollo y construcción final sea lo más sencilla posible.
+
+Está desarrollada por Evan You, el creador de Vue.
+
+Actualmente, Vite soporta tanto proyectos vanilla (sin utilizar frameworks), 
+como proyectos utilizando Vue, React, Preact o Lit-element 
+(tanto en versión Javascript, como Typescript). Fuente
