@@ -8,3 +8,5 @@ const mascota = {
 
 const {nombre, vivo} = mascota 
 console.log(nombre);
+
+hola
